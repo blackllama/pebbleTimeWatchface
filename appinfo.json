@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "suraksha.setty@gmail.com",
+    "longName": "Watchface1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface1",
+    "uuid": "5fa135ff-2f11-4e56-a697-288cd46da214",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
